@@ -33,7 +33,7 @@ This demo is hosted on heroku. You can see it here:
 
 It is shipped in a bundle of 3 javascript and one css-file with a size of:
 
-- runtime.*.js (KB gzipped)
-- polyfills.*.js (KB gzipped)
-- main.*.js (KB gzipped)
-- styles.*.css (KB gzipped)
+- runtime.*.js (~1 KB gzipped)
+- polyfills.*.js (~19.6 KB gzipped)
+- main.*.js (~105 KB gzipped)
+- styles.*.css (~7.6 KB gzipped)
